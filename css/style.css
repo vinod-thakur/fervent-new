@@ -31,11 +31,11 @@ img{
 
 .bg-gray{
     background: url(../img/color-stick.png) no-repeat right #b9b9b9a6;
-    background-size: 54%;
+    background-size: 22%;
     background-position-y: 19px;
 }
 .bg-gray img{
-    width: 10%;
+    width: 4%;
     float: left;
     margin-left: -43px;
 }
