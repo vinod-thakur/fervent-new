@@ -1,0 +1,123 @@
+.hd-top{
+        position: absolute;
+    width: 100%;
+    background-color: #00000000;
+    z-index: 1;
+}
+
+
+
+.logo{
+    width: 52%;
+    position: relative;
+    padding: 0px 0px;
+    }
+    
+img{
+        width: 100%;
+    }
+    
+    .bot-menu{
+        width: 100%;
+        overflow: hidden;
+        position: absolute;
+        top: 503px;
+        padding: 4px 0px;
+    }
+
+#smoke{
+    background: url(../img/smoke.png) no-repeat left;   
+}
+
+.bg-gray{
+    background: url(../img/color-stick.png) no-repeat right #b9b9b9a6;
+    background-size: 54%;
+    background-position-y: 19px;
+}
+.bg-gray img{
+    width: 10%;
+    float: left;
+    margin-left: -43px;
+}
+.bg-gray ul{
+    float: left;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 17px 26px;
+}
+.bg-gray ul li{
+    text-decoration: none;
+}
+.bg-gray ul li p{
+    font-size: 18px;
+    color: #000;
+    margin:  0;
+    padding: 7px 12px;
+}
+.quick {
+    
+}
+.quick h3{
+    font-size: 22px;
+    font-family: lato;
+    padding: 0px 0px;
+}
+.quick p{
+    font-family: lato;
+    color: #918f9d;
+    font-size: 16px;
+    font-weight: 400;    
+}
+.quick ul{
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+.quick ul li{
+    text-decoration: none;
+    font-family: lato;
+    color: #918f9d;
+    font-size: 16px;
+    font-weight: 400;
+}
+.quick ul li a{
+    color: #fff;
+    font-size: 16px;
+}
+.social{
+    
+}
+.social .fb{
+    width: 100%;
+    padding: 4px 16px;
+    background: url(../img/social-icon.png) no-repeat;
+    background-size: 122px;
+    background-position-x: 0px;
+   
+}
+.social .tube{
+    width: 100%;
+    padding: 4px 16px;
+    background: url(../img/social-icon.png) no-repeat;
+    background-size: 122px;
+    background-position-x: -59px;
+}
+.social .insta{
+    width: 100%;
+    padding: 4px 16px;
+    background: url(../img/social-icon.png) no-repeat;
+    background-size: 122px;
+    background-position-x: -90px;
+}
+.social .twitt{
+    width: 100%;
+    padding: 4px 16px;
+    background: url(../img/social-icon.png) no-repeat;
+    background-size: 122px;
+    background-position-x: -28px;
+}
+
+.copyright{
+        border-top: 1px solid #23212f;
+    padding-top: 17px;
+}

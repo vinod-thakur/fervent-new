@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = http://localhost/dhoop-batti
+Data file = D:\xampp\htdocs\dhoop-batti/wp-content/themes/ecommerce-gem/includes/demo/demo-content/content.xml
+Widget file = D:\xampp\htdocs\dhoop-batti/wp-content/themes/ecommerce-gem/includes/demo/demo-content/widget.wie
+Customizer file = D:\xampp\htdocs\dhoop-batti/wp-content/themes/ecommerce-gem/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products - Products - Imported
+
+Advertisements Below Slider : 
+
+eC-Gem: Advertisement - LADIES - Imported
+eC-Gem: Advertisement - FOOTWARE - Imported
+eC-Gem: Advertisement - SMART - Imported
+
+Home Page Widget Area : 
+
+eC-Gem: Products Carousel - Latest Products - Imported
+eC-Gem: CTA - Trending Season - Imported
+eC-Gem: Products Carousel - Featured Products - Imported
+eC-Gem: Latest News - Latest News - Imported
+eC-Gem: Newsletter - Subscribe Newsletter - Imported
+
+Footer 1 : 
+
+Text - About eCommerce Gem - Imported
+eC-Gem: Social - No Title - Imported
+
+Footer 2 : 
+
+eC-Gem: Contact - Contact Us - Imported
+
+Footer 3 : 
+
+eC-Gem: Features - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
