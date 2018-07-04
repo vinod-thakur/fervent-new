@@ -11,7 +11,13 @@
     width: 52%;
     position: relative;
     padding: 0px 0px;
+    margin-top: 17px;
     }
+.logo a{
+    background: #aa974a;
+    padding-top: 19px;
+    padding-bottom: 23px;
+}    
     
 img{
         width: 100%;
@@ -26,9 +32,8 @@ img{
     }
 
 #smoke{
-    background: url(../img/smoke.png) no-repeat left;   
-padding":;;
-;padding: 60px 0px;;
+    background: url(../img/smoke.png) no-repeat left; 
+    padding: 60px 0px;;
 }
 
 .bg-gray{
