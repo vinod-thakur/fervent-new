@@ -165,3 +165,37 @@ img{
     margin: 0 auto;
     box-shadow: #eee 1px 2px 11px;
 }
+.address{
+    padding: 0px 0px;
+    margin: 39px auto;
+    }
+.address h3{
+    font-size: 22px;
+    color: #4e4e4e;
+    padding: 0px 0px;
+    font-family:  sans-serif;
+    }
+.address ul{
+    padding: 0px 0px;
+    margin:  0 auto;
+    }
+.address ul li{
+    text-decoration:  none;
+    list-style-type:  none;
+    }
+.address ul li p{
+    color: #666;
+    margin:  0 auto;
+    padding: 4px 8px;
+    }
+.contact{
+    padding: 0px 0px;
+    margin: 0 auto;
+    margin-top: 0px;
+    }
+.contact h3{
+    font-size: 22px;
+    color: #4e4e4e;
+    padding: 0px 0px;
+    font-family:  sans-serif;
+    }
