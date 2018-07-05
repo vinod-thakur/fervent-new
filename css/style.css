@@ -159,3 +159,9 @@ img{
         border-top: 1px solid #23212f;
     padding-top: 17px;
 }
+.map{
+    border: #eee 1px solid;
+    padding: 2px 2px;
+    margin: 0 auto;
+    box-shadow: #eee 1px 2px 11px;
+}
