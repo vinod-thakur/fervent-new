@@ -244,12 +244,16 @@ img{
     padding: 67px 0px;
     text-align: center;
 }
-.sec-oil img{
-    width: 100%;
+.sec-oil .title{
+    text-align: center !important;
+        width: 100%;
 }
-.sec-oil h2{
-    font-size: 60px;
-    color: #f1de5d;
+.sec-oil .title img{
+        width: 36%;
+}
+.sec-oil .title h2{
+    font-size: 120px;
+    color: #cd8c97;
     text-align: center !important;
     font-family: sans-serif;
     font-weight: bold;
@@ -257,86 +261,129 @@ img{
 .sec-dhoop{
     width: 100%;
     margin: 0 auto;
-    padding: 0;
+    padding: 67px 0px;
+    text-align: center;
 }
-.sec-dhoop img{
-    width: 100%;
+.sec-dhoop .title{
+    text-align: center !important;
+        width: 100%;
 }
-.sec-dhoop h2{
-    font-size: 24px;
-    color: #666;    
+.sec-dhoop .title img{
+        width: 36%;
+}
+.sec-dhoop .title h2{
+    font-size: 120px;
+    color: #af7db5;
+    text-align: center !important;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 .sec-deffuser{
     width: 100%;
     margin: 0 auto;
-    padding: 0;
+    padding: 67px 0px;
+    text-align: center;
 }
-.sec-deffuser img{
-    width: 100%;
+.sec-deffuser .title{
+    text-align: center !important;
+        width: 100%;
 }
-.sec-deffuser h2{
-    font-size: 24px;
-    color: #666;    
+.sec-deffuser .title img{
+        width: 36%;
+}
+.sec-deffuser .title h2{
+    font-size: 120px;
+    color: #9ede70;
+    text-align: center !important;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 
 .sec-potpuri{
     width: 100%;
     margin: 0 auto;
-    padding: 0;
+    padding: 67px 0px;
+    text-align: center;
 }
-.sec-potpuri img{
-    width: 100%;
+.sec-potpuri .title{
+    text-align: center !important;
+        width: 100%;
 }
-.sec-potpuri h2{
-    font-size: 24px;
-    color: #666;    
+.sec-potpuri .title img{
+       width: 50%;
+}
+.sec-potpuri .title h2{
+    font-size: 60px;
+    color: #f1de5d;
+    text-align: center !important;
+    font-family: sans-serif;
+    font-weight: bold;    
 }
 
 .flo1{
-    background: url('../img/flow/s1.png') no-repeat;
-    background-position-x: -20px;
-    background-position-y: -10px;
-    background-size: auto;
+    margin-top: -445px;
+}
+.flo1 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo2{
-    background: url('../img/flow/s2.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+   margin-top: -445px;
+   
+}
+.flo2 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo3{
-    background: url('../img/flow/3.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+  margin-top: -445px;
+}
+.flo3 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo4{
-    background: url('../img/flow/s4.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+   margin-top: -445px;
+}
+.flo4 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo5{
-    background: url('../img/flow/s6.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+   margin-top: -361px;
+   margin-left: -261px;
+}
+.flo5 img{
+    padding-left: 1%;
+    padding-top: 1px;
+    width: 189px;
 }
 .flo6{
-    background: url('../img/flow/p11.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+    margin-top: -445px;
+}
+.flo6 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo7{
-    background: url('../img/flow/p10.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+    margin-top: -445px;
+    margin-right: -22px;
+}
+.flo7 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
 .flo8{
-    background: url('../img/flow/10.png') no-repeat;
-    background-position-x: 1px;
-    background-position-y: 10px;
-    background-size: auto;
+    margin-top: -445px;
+}
+.flo8 img{
+    padding-left: 13%;
+    padding-top: 1px;
+    width: 231px;
 }
