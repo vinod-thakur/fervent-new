@@ -199,3 +199,9 @@ img{
     padding: 0px 0px;
     font-family:  sans-serif;
     }
+    
+    
+    .module-bg{
+        background: url('../img/module-4.jpg') no-repeat;
+        background-size: cover;
+    }
