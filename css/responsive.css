@@ -1,0 +1,10 @@
+@media (min-width:768px) {
+ .navbar-custom {    
+    background: none;    
+}
+}
+@media (min-width:667px) {
+ .navbar-custom {    
+    background: none;    
+}
+}
