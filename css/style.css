@@ -202,10 +202,11 @@ img{
     
     
 .module-bg{
-    background: url('../img/module-4.jpg') no-repeat;
-    position: relative;
-    z-index: 0;
-    background-attachment: scroll;
+    background: url(../img/module-4.jpg) no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     }
 .module-bg .sec1{
@@ -258,6 +259,14 @@ img{
     font-family: sans-serif;
     font-weight: bold;
 }
+.sec-oil .title p{
+    font-size: 12px;
+    color: #cd8c97;
+    padding:0px 6px;
+    text-align: justify !important;
+    font-family: sans-serif;
+   
+}
 .sec-dhoop{
     width: 100%;
     margin: 0 auto;
@@ -269,10 +278,10 @@ img{
         width: 100%;
 }
 .sec-dhoop .title img{
-        width: 36%;
+        width: 66%;
 }
 .sec-dhoop .title h2{
-    font-size: 120px;
+    font-size: 55px;
     color: #af7db5;
     text-align: center !important;
     font-family: sans-serif;
@@ -320,70 +329,121 @@ img{
     font-weight: bold;    
 }
 
-.flo1{
+#flo1{
     margin-top: -445px;
 }
-.flo1 img{
+#flo1 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo2{
+#flo2{
    margin-top: -445px;
    
 }
-.flo2 img{
+#flo2 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo3{
+#flo3{
   margin-top: -445px;
 }
-.flo3 img{
+#flo3 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo4{
+#flo4{
    margin-top: -445px;
 }
-.flo4 img{
+#flo4 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo5{
+#flo5{
    margin-top: -361px;
    margin-left: -261px;
 }
-.flo5 img{
+#flo5 img{
     padding-left: 1%;
     padding-top: 1px;
     width: 189px;
 }
-.flo6{
+#flo6{
     margin-top: -445px;
 }
-.flo6 img{
+#flo6 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo7{
+#flo7{
     margin-top: -445px;
     margin-right: -22px;
 }
-.flo7 img{
+#flo7 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
 }
-.flo8{
+#flo8{
     margin-top: -445px;
 }
-.flo8 img{
+#flo8 img{
     padding-left: 13%;
     padding-top: 1px;
     width: 231px;
+}
+
+
+@media (max-width:768px){
+    #smoke {   
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background: none;
+}
+.bot-menu {    
+    top: 148px;   
+}
+.sec-oil .title h2 {
+    font-size: 55px;   
+}
+.sec-oil .title p{
+    font-size: 12px;   
+    padding:0px 6px;
+    text-align: justify !important;  
+   }
+.sec-oil .title img {
+    width: 66%;
+}   
+.sec-dhoop .title p{
+    font-size: 12px;    
+    padding:0px 6px;
+    text-align: justify !important;
+}
+.sec-dhoop .title img {
+    width: 66%;
+}
+.sec-laven .title p{
+    font-size: 12px;    
+    padding:0px 6px;
+    text-align: justify !important;
+}
+.sec-laven .title img {
+    width: 66%;
+}
+.sec-deffuser .title h2 {
+    font-size: 55px;    
+}
+.sec-deffuser .title p {
+    font-size: 12px;    
+    padding:0px 6px;
+    text-align: justify !important;
+}
+.sec-deffuser .title img {
+    width: 66%;
+}
+
 }
