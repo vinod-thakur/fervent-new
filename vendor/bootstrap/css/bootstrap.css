@@ -561,7 +561,17 @@ pre code {
     max-width: 720px;
   }
 }
-
+@media (min-width:667px) {
+ .navbar-custom {    
+    background: none;    
+}
+.navbar-custom .navbar-nav .nav-item .nav-link {   
+    font-size: .7rem;
+    /* font-weight: 700; */
+    letter-spacing: .1rem;
+    border-bottom: #fff 1px solid;
+    padding: 10px 21px;
+}
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
